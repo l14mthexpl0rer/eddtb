@@ -1,2 +1,2 @@
-# eddb
-Elite Dangerous Discord Bot
+# EDDTB
+Elite Dangerous Discord Ticket Bot
